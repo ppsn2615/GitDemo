@@ -2,7 +2,7 @@ public class Test1 {
 	
 	public static void main(String[] args) {
 	
-	    int jumsu = 0; // 점수 입력받기
+	    int jumsu = 0; // 점수 입력받기 
         char level = ' '; // 학점 초기화 
       
         if(jumsu >= 90){
